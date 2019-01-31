@@ -1,0 +1,117 @@
+#app {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  width: 100%;
+}
+
+#inspire {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+}
+
+.container.fill-height {
+  align-items: normal;
+}
+
+a.side_bar_link {
+  text-decoration: none;
+  color:#F75856;
+}
+
+.card__title--primary,
+.card-text,{
+  text-align: left;
+}
+
+.card {
+  height: 100% !important;
+}
+
+.text-white{
+  color: #FFFFFF!important;
+}
+
+.text-red{
+  color: #EF3124!important;
+}
+
+.text-input{
+  color: #EF3124!important;
+}
+
+.theme--light.v-label{
+  color: #EF3124;
+}
+
+.theme--light.v-text-field>.v-input__control>.v-input__slot:before{
+  border-color: #EF3124;
+}
+
+.theme--light.v-text-field:not(.v-input--has-state)>.v-input__control>.v-input__slot:hover:before{
+  border-color: #EF3124;
+}
+
+.v-navigation-drawer>.v-list:not(.v-list--dense) .v-list__tile{
+  text-decoration: none;
+  color: #f75856;
+}
+
+.theme--light.v-icon{
+  color: #f75856;
+}
+
+.bullet-info{
+  text-align: left;
+  color: #8C1912;
+  font-weight: 800;
+  margin-top: 8px;
+  margin-bottom: -8px;
+}
+
+.table-full{
+  max-width: 100%;
+  padding: 0px;
+}
+
+.v-date-picker-table .v-btn.v-btn--active {
+  background-color: #8C1912 !important;
+  border-color: #8C1912 !important;
+}
+
+.v-time-picker-clock__item.v-time-picker-clock__item--active.accent{
+  background-color: #8C1912 !important;
+  border-color: #8C1912 !important;
+}
+
+.v-picker__title.primary{
+  background-color: #8C1912 !important;
+  border-color: #8C1912 !important;
+}
+
+.v-time-picker-clock__hand.accent{
+  background-color: #8C1912 !important;
+  border-color: #8C1912 !important;
+}
+
+.text-head-table{
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: .02em;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.v-divider--vertical.v-divider--inset{
+  border-color: #EF3124;
+}
+
+.table.v-table tbody td:first-child, table.v-table tbody td:not(:first-child), table.v-table tbody th:first-child, table.v-table tbody th:not(:first-child), table.v-table thead td:first-child, table.v-table thead td:not(:first-child), table.v-table thead th:first-child, table.v-table thead th:not(:first-child){
+  padding: 0 8px;
+}
+
+.v-datatable__actions__pagination {
+    display: none;
+}
