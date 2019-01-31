@@ -1,1 +1,3 @@
-ux-ui
+- co-op_project: My co-op project is about order management system for a coffee shop, I design and full stack dev.
+- Makro_POS: Makro POS is application for management convenient store, my responsibility does user experience research. Then take result research to design user interface.
+- NMPCD: National Medicinal Product Catalog Database Project, I design user interface and develop front-end.
